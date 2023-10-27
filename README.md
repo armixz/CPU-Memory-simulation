@@ -6,3 +6,5 @@ This project aims to build a simple computer system with a CPU and memory. In th
 
 ### Implementation
 The program is written in C language, which includes several functions as described below: 
+  
+![image](https://raw.githubusercontent.com/armixz/CPU-Memory-simulation/master/img/functions.PNG)
